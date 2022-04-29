@@ -2,3 +2,5 @@
 
 Repo for demonstrating the capability of git and its commands for starters. 
 Testing it with new commits..
+Commit for the new branch
+
